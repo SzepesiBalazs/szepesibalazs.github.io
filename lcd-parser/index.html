@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Number To LCD</title>
+    <script src="https://cdn.jsdelivr.net/npm/lcd-dojo@1.1.0/dist/lcd-dojo.min.js"></script>
+    <link rel="stylesheet" href="styling.css" />
+  </head>
+  <body>
+    <h1>Number To LCD</h1>
+
+    <input
+      type="text"
+      id="inputNumber"
+      placeholder="Enter a number"
+      minlength="0"
+      maxlength="15"
+      oninput="validateNumberLength(this)"
+    />
+
+    <div class="lcd-numbers">
+      <div id="grouped-text-one"></div>
+      <div id="grouped-text-two"></div>
+      <div id="grouped-text-three"></div>
+    </div>
+
+    <script type="module" src="main.js"></script>
+  </body>
+</html>
