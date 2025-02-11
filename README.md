@@ -8,7 +8,7 @@
 
 ---
 
-## [Sport-Calendar](https://szepesi.balazs.github.io/sport-calendar/)
+## [Sport-Calendar](https://szepesibalazs.github.io/sport-calendar/)
 
 ### This project is a dynamic calendar that highlights sporting events, with each event displaying its own detailed information. Users can easily add or remove events from the calendar.
 
