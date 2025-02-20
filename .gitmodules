@@ -1,3 +1,7 @@
 [submodule "sport-calendar"]
 	path = sport-calendar
 	url = https://github.com/SzepesiBalazs/SR-SportCalendar-Exercise.git
+
+[submodule "lcd-parser"]
+	path = lcd-parser
+	url = https://github.com/SzepesiBalazs/numberToLcd.git
