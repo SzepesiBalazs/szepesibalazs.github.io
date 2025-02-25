@@ -1,7 +1,9 @@
 # My projects
 
 ---
+
 ## [LCD-Parser](https://szepesibalazs.github.io/lcd-parser/)
+
 ### This project features an input field where you can enter numbers, which are then converted into their LCD-style counterparts.
 
 ## [Github repository](https://github.com/SzepesiBalazs/numberToLcd)
@@ -14,3 +16,10 @@
 
 ## [Github repository](https://github.com/SzepesiBalazs/SR-SportCalendar-Exercise)
 
+---
+
+## [Foo-Bar-Qix](https://szepesibalazs.github.io/foo-bar-qix/)
+
+### This project works similarily to the LCD-Parser, but here it transforms the numbers into "Foo", "Bar" and "Qix" based on specific conditions.
+
+## [Github repository](https://github.com/SzepesiBalazs/FooBarQixDojo)
