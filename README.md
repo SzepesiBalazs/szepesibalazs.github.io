@@ -23,3 +23,11 @@
 ### This project works similarily to the LCD-Parser, but here it transforms the numbers into "Foo", "Bar" and "Qix" based on specific conditions.
 
 ## [Github repository](https://github.com/SzepesiBalazs/FooBarQixDojo)
+
+---
+
+## [EmployeeReport](https://szepesibalazs.github.io/employee-report/)
+
+###  This project contains a list of employees, where you can sort them using different buttons.
+
+## [Github repository](https://github.com/SzepesiBalazs/employeeReport)
